@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ajayvishwakarma2k21
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN
+- 👋 Hi, I’m Ajay Vishwakarma
+- 👀 I’m interested in Web Development and learning new things
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me 
 
