@@ -40,9 +40,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Awesome Portfolio](https://github.com/ajayvishwakarma2k21/Portfolio) | Personal portfolio site with interactive UI and animations | React, CSS, Netlify |
-| [Automation Scripts](https://github.com/ajayvishwakarma2k21/Automation) | Useful Python scripts for daily automation | Python, Shell |
-| [Open Source Contributions](https://github.com/ajayvishwakarma2k21?tab=repositories&q=&type=&language=&sort=stargazers) | Active contributor to various open source projects | GitHub, Markdown |
+| [Awesome Portfolio](https://ajayvishwakarma2k21.vercel.app/) | Personal portfolio site with interactive UI and animations | Next.js, Tailwind css, vercel |
+| [Cloudy - Bytes](https://cloudybytes.onrender.com/) | useful for finding food according to weather conditions | ReactJS, ExpressJS, NodeJS, Tailwind CSS, REST API |
+| [Find My Roomie](https://github.com/) | Active contributor to various open source projects | MERN |
 
 ---
 
@@ -69,9 +69,9 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter-id"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:ajayvishwakarma2k21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ajayvishwakarma2k21"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!--   <a href="https://twitter.com/your-twitter-id"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 </p>
 
 ---
