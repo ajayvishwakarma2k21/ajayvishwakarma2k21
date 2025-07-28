@@ -42,7 +42,7 @@
 |---------|-------------|------|
 | [Awesome Portfolio](https://ajayvishwakarma2k21.vercel.app/) | Personal portfolio site with interactive UI and animations | Next.js, Tailwind css, vercel |
 | [Cloudy - Bytes](https://cloudybytes.onrender.com/) | useful for finding food according to weather conditions | ReactJS, ExpressJS, NodeJS, Tailwind CSS, REST API |
-| [Find My Roomie](https://github.com/) | Active contributor to various open source projects | MERN |
+| [Find My Roomie](https://github.com/ajayvishwakarma2k21/RoomMate_Finder_Hostel_Life) | Profile Management, Sorting based on you | MERN |
 
 ---
 
